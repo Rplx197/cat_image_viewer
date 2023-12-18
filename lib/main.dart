@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Cat Image Viewer',
+      title: 'Random Cat',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
